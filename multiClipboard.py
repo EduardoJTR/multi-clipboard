@@ -8,6 +8,8 @@ import json
 i recommend you to read REDME first, that will help you to more understant the multi-clipboard project.
 """
 
+# Comentário de teste!!!
+
 SAVED_FILE = "clipboard.json"
 
 # save data in our clipboard (json file)
